@@ -1,0 +1,156 @@
+﻿body {
+    width:1000px;
+    background-color:#D2E9FF;
+    margin:0 auto;
+}
+
+.banner {
+    /*color:white;*/
+    /*background-color:orangered;*/
+    padding:10px;
+    
+    font-size:20px;
+
+}
+.dad {
+width:1000px;
+margin:0 auto;
+
+}
+#container{
+            margin:0 auto;
+            width:1000px;
+}#top{ 
+    
+     width:980px;
+}
+#navi{
+     height:60px;
+     margin:0;
+     border:#cecb52 solid 1px;
+     background-color:#2894FF;
+     padding-top:10px;
+     padding-bottom:5px;
+     text-align:center;
+}
+#navi a{                           
+	font-size:25px;
+        height:15px;
+        text-decoration:none;
+	padding:6px 12px 6px 12px;
+}
+#navi a:link,navi a:visited{		
+	                     color:#c1deb9;   
+}
+#navi a:hover{	
+	color:#FFF;			 	
+	background-color:#8FBC8F;
+	border-color:#fff;
+	border-width:1px 1px 0;
+	border-style:solid;
+}
+#font {
+    /*  font-size:30px;
+    width:1300px;*/
+  
+}
+/*#zong {
+    width:1300px;
+}*/
+#kong {
+    width:980px;
+    height:20px;
+}
+#left {
+        float:left;
+        width:500px;
+       /*height:600px;*/
+}
+#right {
+        /*width:500px;*/
+        float:right;
+}
+#up {
+    width:980px;
+    height:250px;
+    border:solid;
+    border-color:lightgrey;
+    padding:5px;
+}
+#medium {
+    width:980px;
+    height:250px;
+    border:solid;
+    border-color:lightgrey;
+    padding:5px;
+}
+.mm {
+     width:980px;
+    height:250px;
+    border:solid;
+    border-color:lightgrey;
+    padding:5px;
+}
+#down {
+    width:980px;
+    height:250px;
+    border:solid;
+    border-color:lightgrey;
+    padding:5px;
+}
+.button {
+    float:right;
+    margin-right:20px;
+    border-top-left-radius:10px 10px;
+    border-top-right-radius:10px 10px;
+    border-bottom-left-radius:10px 10px;
+    border-bottom-right-radius:10px 10px;
+    background-color:red;
+    width:130px;
+    height:40px;
+}
+.button1 {
+     
+    
+     
+    width:130px;
+    height:40px;
+}
+.border {
+    margin:20px;
+}
+
+
+#foot{        
+	height:60px;
+    padding:15px; 
+        font-size:10px;
+        font-family:黑体;          
+	border-bottom-right-radius:20px 20px;  
+	border-bottom-left-radius:20px 20px;   
+	border:#886600 solid 2px;       
+	background-color:#2894FF;   
+    text-align:center;                  
+}
+.pic {
+width:1000px;
+height:250px;
+}
+.ll {
+ background-color: #fff;
+    left: 17%;
+    margin: -170px 0 0 -490px;
+    position: fixed;
+    top: 17%;
+    width: 300px;
+   
+    z-index: 25;
+
+}
+.xz {
+    transition:transform 0.5s;
+}
+    .xz:hover {
+        transform:rotate(-90deg);
+    
+    }

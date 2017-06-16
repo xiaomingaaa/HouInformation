@@ -1,0 +1,85 @@
+﻿body {
+}
+    .kuang{
+            width: 100%;
+            height: 100%;
+            background: lightgray;
+            position: fixed;
+            opacity: 0.7;
+          
+        }
+        .kuang1{
+            width: 300px;
+            height: 200px;
+            position: fixed;
+            top: calc(50% - 100px);
+            left:calc(50% - 150px);
+            background: white;
+            box-shadow: 0px 0px 30px 2px gray;
+        
+        }
+        .k{
+            width: 100%;
+            height: 100%;
+          display:none;
+          position:absolute;
+        }
+        .s{
+            width: 100%;
+            height: 25%;
+            border-bottom: 1px solid #F0F0F0;
+            background: #FCFCFC;
+        }
+        .s span{
+            color: gray;
+            font-size: 12px;
+            line-height: 50px;
+            padding-left: 20px;
+        }
+        .s span:nth-child(2)
+        {
+            font-size: 16px;
+            float: right;
+            padding-right: 20px;
+            cursor: pointer;
+        }
+        .x{
+            width: 100%;
+            height: 75%;
+           display: flex;
+           flex-direction: column;
+           justify-content: space-around;
+          
+           align-items: center;
+           
+          
+        }
+       .s1{
+           width: 90%;
+           height: 55%;
+           display: flex;
+           flex-direction: column;
+           justify-content: center;
+       }
+       .s2{
+           width: 90%;
+           height: 30%;
+          
+       }
+       .s1 span{
+           color: dimgrey;
+           font-size: 16px;
+       }
+       .OK{
+           width: 25%;
+           height: 60%;
+           border-radius: 2px;
+           background: #66B3FF;
+           cursor: pointer;
+           color: white;
+           display: flex;
+           align-items: center;
+           justify-content: center;
+           float: right;
+           font-size: 14px;
+       }

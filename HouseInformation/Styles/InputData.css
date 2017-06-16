@@ -1,0 +1,37 @@
+﻿body {
+    width:1000px;
+
+}
+.container {
+width:1000px;
+height:800px;
+margin:0 auto;
+}
+.kongbai {
+width:1000px;
+height:100px;
+
+}
+ul {
+   list-style-type:none;
+   text-align:center;
+}
+.options {
+ padding: 5px 15px;
+    background-color: blue;
+    width: 200px;
+    height: 25px;
+    color: #00CCFF;
+    cursor: pointer;
+    margin:5px 0px;
+}
+.left {
+float:left;
+width:273px;
+
+}
+.right {
+float:left;
+width:700px;
+height:800px;
+}

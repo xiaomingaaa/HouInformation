@@ -1,0 +1,51 @@
+﻿body {
+    margin: 0 auto;
+    width:1000px;
+    background-image :url(../images/背景.jpg);
+    background-attachment :  fixed;
+    background-size: 100%;
+    background-repeat :no-repeat ;
+    
+}
+.banner {
+
+}
+#style {
+    margin: 0 auto;
+    width:500px;
+    border-bottom:1px solid gray;
+    border-left:1px solid gray;
+    border-right:1px solid gray;
+}
+.spantext {
+    width:50px;
+    float:left;
+}
+
+#textbox {
+    width:200px;
+    float: right;
+}
+.juzhong {
+            margin: 0 auto;
+            margin-left:150px;
+}
+
+
+.foot {
+         border-radius:0 0 20px 20px;
+     border:2px solid #cecb52;
+     position:relative; top:0px; 
+     height:80px;
+     background-color:#46A3FF;
+}
+.footerBox{
+        width:980px;
+        padding-top:10px; 
+        color:black;
+        
+}
+.foot .footerbot{ 
+        height:30px;
+        margin-top:0px;
+}
